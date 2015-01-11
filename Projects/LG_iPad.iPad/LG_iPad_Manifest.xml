@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<File Type='Manifest' Version='5.1.0' ObjectDisplayList='3'>
+<Project FileName='LG_iPad.zip' Size='2669884' Build='20140303182553'>
+<Sources>
+<Source FileName='LG_iPad.xml' Size='553' Type='Application' Build='20140303182551' />
+<Source FileName='LG_iPad_Resource.xml' Size='29942' Type='Resource' Build='20140303182551' />
+<Source FileName='[Lists] MBED LIST-CUT.xml' Size='8041' Type='Subpage' Build='20140303182567' />
+<Source FileName='[Lists] LIVING LIST-CUT.xml' Size='8041' Type='Subpage' Build='20140303182566' />
+<Source FileName='[Lists] HOUSE LIST-CUT.xml' Size='2460' Type='Subpage' Build='20140303182564' />
+<Source FileName='[Lists] BEDROOMS-CUT.xml' Size='6180' Type='Subpage' Build='20140303182564' />
+<Source FileName='Off btn.xml' Size='1058' Type='Subpage' Build='20140303182563' />
+<Source FileName='[Lists] BEDROOMS.xml' Size='8036' Type='Subpage' Build='20140303182563' />
+<Source FileName='[Lists] Kitchen List.xml' Size='4320' Type='Subpage' Build='20140303182561' />
+<Source FileName='[House Control] Lights House.xml' Size='71905' Type='Subpage' Build='20140303182560' />
+<Source FileName='[House Control] Lights Study.xml' Size='39543' Type='Subpage' Build='20140303182555' />
+<Source FileName='[House Control] Lights Guest.xml' Size='39543' Type='Subpage' Build='20140303182552' />
+<Source FileName='[House Control] Lights MBed.xml' Size='50332' Type='Subpage' Build='20140303182549' />
+<Source FileName='[House Control] Lights Kitchen.xml' Size='39545' Type='Subpage' Build='20140303182544' />
+<Source FileName='[House Control] Lights Rename.xml' Size='42891' Type='Subpage' Build='20140303182541' />
+<Source FileName='[House Control] Lights Living.xml' Size='71921' Type='Subpage' Build='20140303182538' />
+<Source FileName='[House Control] Blinds-House.xml' Size='3700' Type='Subpage' Build='20140303182532' />
+<Source FileName='[Lists] ENSUITES.xml' Size='3383' Type='Subpage' Build='20140303182532' />
+<Source FileName='[House Control] Cooling.xml' Size='10025' Type='Subpage' Build='20140303182530' />
+<Source FileName='Sky btn ext.xml' Size='5240' Type='Subpage' Build='20140303182530' />
+<Source FileName='Sky btn.xml' Size='3291' Type='Subpage' Build='20140303182528' />
+<Source FileName='[House Control] Alarm.xml' Size='21301' Type='Subpage' Build='20140303182528' />
+<Source FileName='[House Control] Blinds.xml' Size='3694' Type='Subpage' Build='20140303182525' />
+<Source FileName='[House Control] Heating HW.xml' Size='18397' Type='Subpage' Build='20140303182525' />
+<Source FileName='[Not in use] Hot water Schedule.xml' Size='9173' Type='Subpage' Build='20140303182524' />
+<Source FileName='[House Control] Heating Overview - ok.xml' Size='15907' Type='Subpage' Build='20140303182522' />
+<Source FileName='[House Control] Heating Schedule 5-2 - ok.xml' Size='19339' Type='Subpage' Build='20140303182521' />
+<Source FileName='[Not in use] Local_Landing.xml' Size='2061' Type='Subpage' Build='20140303182517' />
+<Source FileName='[Not in use] Local.xml' Size='9157' Type='Subpage' Build='20140303182511' />
+<Source FileName='[Source control] TV - ok.xml' Size='24062' Type='Subpage' Build='20140303182510' />
+<Source FileName='[Source control] Sky -Keypad - ok.xml' Size='23085' Type='Subpage' Build='20140303182508' />
+<Source FileName='[Source control] Sky - Favorites - ok.xml' Size='17422' Type='Subpage' Build='20140303182505' />
+<Source FileName='[Lists] House List.xml' Size='3385' Type='Subpage' Build='20140303182503' />
+<Source FileName='[Not in use] Heating Schedule - 7 days.xml' Size='19776' Type='Subpage' Build='20140303182503' />
+<Source FileName='[Source control] Blu Ray - ok.xml' Size='22066' Type='Subpage' Build='20140303182500' />
+<Source FileName='[Source control] Airplay.xml' Size='2286' Type='Subpage' Build='20140303182599' />
+<Source FileName='Off - ok.xml' Size='3637' Type='Subpage' Build='20140303182578' />
+<Source FileName='[Source control] Sky - Main - ok.xml' Size='22980' Type='Subpage' Build='20140303182574' />
+<Source FileName='[Not in use] Internet Radio.xml' Size='4986' Type='Subpage' Build='20140303182572' />
+<Source FileName='[Not in use] Rename Presets - ok.xml' Size='30782' Type='Subpage' Build='20140303182568' />
+<Source FileName='[Source control] Room Off - ok.xml' Size='387' Type='Subpage' Build='20140303182564' />
+<Source FileName='[Source control] iPod - ok.xml' Size='27025' Type='Subpage' Build='20140303182563' />
+<Source FileName='[Lists] MBed List.xml' Size='9900' Type='Subpage' Build='20140303182561' />
+<Source FileName='Volume - ok.xml' Size='12048' Type='Subpage' Build='20140303182560' />
+<Source FileName='[Lists] Living list.xml' Size='10833' Type='Subpage' Build='20140303182529' />
+<Source FileName='[Not in use] CCTV.xml' Size='3724' Type='Subpage' Build='20140303182521' />
+<Source FileName='[Source control] Radio - ok.xml' Size='14863' Type='Subpage' Build='20140303182513' />
+<Source FileName='[House Control] Heating - ok.xml' Size='13727' Type='Subpage' Build='20140303182513' />
+<Source FileName='Main.xml' Size='19940' Type='Page' Build='20140303182599' />
+</Sources>
+</Project>
+</File>
